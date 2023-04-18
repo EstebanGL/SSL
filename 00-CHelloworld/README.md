@@ -1,1 +1,1 @@
-Usé como compilador MinGW(GCC)
+Usé como compilador gcc
