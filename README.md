@@ -1,7 +1,6 @@
 #  Sintaxis y semántica de los Lenguajes
 #
-- K2006
-- 2023
-- 2036873
-- Gomez Lousa
-- Esteban Daniel
+- Curso: K2006
+- Año de cursada: 2023
+- Legajo: 2036873
+- Nombre: Esteban Daniel Gomez Lousa
